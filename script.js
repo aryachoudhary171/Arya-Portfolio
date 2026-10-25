@@ -2,7 +2,7 @@ document.documentElement.classList.add('js-ready');
 // Central edit points for demo projects, skills, and contact details.
 const projects = [
  {title:'Gyaan Sandhi Website',category:'website',description:'Live website project by Arya Choudhary.',technologies:['Website'],video:'assets/videos/gyaan sandhi.mp4',thumbnail:'assets/images/gyaan-sandhi-cover.png',thumbnailFit:'contain',demoPage:'gyaan-sandhi-demo.html',liveUrl:'https://gyaan-sandhi.vercel.app/',sourceUrl:'',featured:true},
- {title:'Maison Blush',category:'website',description:'Website showcase for Maison Blush.',technologies:['Website'],video:'assets/videos/Maison-blush.mp4',thumbnail:'assets/images/maison-blush-cover.png',demoPage:'maison-blush-demo.html',clickCard:true,liveUrl:'https://aryachoudhary171.github.io/maison-blush/',sourceUrl:'',featured:false},
+ {title:'Maison Blush',category:'website',description:'Website showcase for Maison Blush.',technologies:['Website'],video:'assets/videos/Maison-blush-web.mp4',thumbnail:'assets/images/maison-blush-cover.png',demoPage:'maison-blush-demo.html',clickCard:true,liveUrl:'https://aryachoudhary171.github.io/maison-blush/',sourceUrl:'',featured:false},
  {title:'Android App Demo',category:'android',description:'An interactive Android application demonstration. Replace this example with your own project details.',technologies:['Android','JavaScript'],video:'assets/videos/android-app.mp4',thumbnail:'',liveUrl:'',sourceUrl:'',featured:false}
 ];
 const skills=['HTML5','CSS3','JavaScript','Responsive Web Design','API Integration','Android Development','Git and GitHub'];
