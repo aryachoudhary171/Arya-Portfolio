@@ -288,3 +288,6 @@ html,body{background:#f7fbf8;color:#173d31}
     margin-top: 0;
   }
 }
+.project[data-demo-page]{cursor:pointer}.project[data-demo-page]:focus-visible{outline:2px solid #19845d;outline-offset:8px}.project[data-demo-page] .project-thumbnail{transition:transform .45s cubic-bezier(.2,.7,.2,1)}.project[data-demo-page]:hover .project-thumbnail{transform:scale(1.035)}
+.project-visual.has-cover,.project:nth-child(2) .project-visual.has-cover{aspect-ratio:16/9!important;min-height:0!important}
+.project-visual.has-contain .project-thumbnail{object-fit:contain;padding:14px;background:#edf6ef}
